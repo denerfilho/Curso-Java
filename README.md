@@ -4,7 +4,7 @@ Curso de Java com o professor Gustavo Guanabara
 # Test Cases | App 1List | Python + Appium
 
 | Test Case ID | Test Case Name                                                                           |
-| ------------ | ---------------------------------------------------------------------------------------- |
+| ------------ | ----------------------------------------------------                                     |
 | CT-1         | Clicar no dorpdown 1ListDev                                                              |
 | CT-2         | Clicar no dorpdown 1ListDev -> Settings                                                  |
 | CT-3         |  Clicar no dorpdown 1ListDev -> Settings -> mudar tema                                   |
